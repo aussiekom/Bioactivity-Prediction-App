@@ -1,9 +1,9 @@
 # Bioactivity Prediction Application
 
-## Just run this app by clicking this link:
+## Use this app by clicking this link:
 https://bioactivity-prediction.streamlit.app/
 
-## Reproducing this web app on your own computer:
+## Or you can reproducing this web app on your own computer:
 To run this web app on your own computer, do the following steps:
 
 ### Create conda environment
